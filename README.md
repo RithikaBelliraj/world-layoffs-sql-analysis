@@ -58,6 +58,7 @@ The project demonstrates practical SQL techniques commonly used in real-world da
 
 | File Name | Description |
 |---|---|
-| `World_Layoffs_Data_Analysis.sql` | SQL queries for data cleaning, transformation, and exploratory analysis |
+| `Data_Cleaning.sql` | SQL queries for data cleaning, transformation, and preprocessing |
+| `Exploratory_Data_Analysis.sql` | SQL queries for exploratory analysis and trend identification |
 
 ---
